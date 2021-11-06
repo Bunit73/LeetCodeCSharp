@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode CSharp", "LeetCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{78D5F06D-6697-4945-A06C-A0550ACAF22D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSum1d", "RunningSum1d\RunningSum1d.csproj", "{9A41B732-E9C0-4778-82A7-3FDB4B635EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{78D5F06D-6697-4945-A06C-A0550ACAF22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D5F06D-6697-4945-A06C-A0550ACAF22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D5F06D-6697-4945-A06C-A0550ACAF22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A41B732-E9C0-4778-82A7-3FDB4B635EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A41B732-E9C0-4778-82A7-3FDB4B635EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A41B732-E9C0-4778-82A7-3FDB4B635EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A41B732-E9C0-4778-82A7-3FDB4B635EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
