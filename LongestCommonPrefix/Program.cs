@@ -20,7 +20,7 @@ public class Solution {
             return strs[0];
         }
 
-        var retval = strs[0];
+        var retval = strs.OrderBy(c => c.Length).FirstOrDefault();
         
         foreach (var str in strs)
         {
