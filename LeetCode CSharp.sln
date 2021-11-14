@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatchingInAnArray", "StringMatchingInAnArray\StringMatchingInAnArray.csproj", "{029424F1-89CD-4EE3-95CA-66B4A5768E02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfStudentsDoingHomeworkAtAGivenTime", "NumberOfStudentsDoingHomeworkAtAGivenTime\NumberOfStudentsDoingHomeworkAtAGivenTime.csproj", "{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{029424F1-89CD-4EE3-95CA-66B4A5768E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029424F1-89CD-4EE3-95CA-66B4A5768E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029424F1-89CD-4EE3-95CA-66B4A5768E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
