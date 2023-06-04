@@ -26,6 +26,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatchingInAnArray", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfStudentsDoingHomeworkAtAGivenTime", "NumberOfStudentsDoingHomeworkAtAGivenTime\NumberOfStudentsDoingHomeworkAtAGivenTime.csproj", "{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstOccuranceInString", "FirstOccuranceInString\FirstOccuranceInString.csproj", "{9C22F158-84BB-4C12-937E-FD362AF4318C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{75BE3541-0384-4203-8259-81A0C8845687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +88,13 @@ Global
 		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C40DD68E-AEDD-4CDE-9D43-AFB47CEB9816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C22F158-84BB-4C12-937E-FD362AF4318C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C22F158-84BB-4C12-937E-FD362AF4318C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C22F158-84BB-4C12-937E-FD362AF4318C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C22F158-84BB-4C12-937E-FD362AF4318C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BE3541-0384-4203-8259-81A0C8845687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BE3541-0384-4203-8259-81A0C8845687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BE3541-0384-4203-8259-81A0C8845687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BE3541-0384-4203-8259-81A0C8845687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
